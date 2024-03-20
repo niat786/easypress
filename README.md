@@ -1,6 +1,6 @@
-# Laravel CMS Setup Guide
+# Easypress CMS Setup Guide
 
-This guide will help you set up a Laravel application with a modern Content Management System (CMS) using the latest technologies such as Livewire and Filament.
+This guide will help you set up a Laravel application with a modern Content Management System (Easypress CMS) using the latest technologies such as Livewire and Filament.
 
 ## Prerequisites
 
