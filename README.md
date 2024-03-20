@@ -6,7 +6,7 @@ This guide will help you set up a Laravel application with a modern Content Mana
 
 Before you begin, ensure you have the following installed on your system:
 
-- PHP (>= 7.3)
+- PHP (>= 8.1)
 - Composer
 - Node.js (with npm)
 - MySQL or any other preferred database system
@@ -72,7 +72,7 @@ Before you begin, ensure you have the following installed on your system:
     php artisan serve
     ```
 
-10. Visit `http://localhost:8000` in your web browser to see the application running.
+10. Visit `http://127.0.0.1:8000` in your web browser to see the application running.
 
 ## Features
 
