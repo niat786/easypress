@@ -16,13 +16,13 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/niat786/easypress.git
     ```
 
 2. Navigate into the project directory:
 
     ```
-    cd your-repo
+    cd easypress
     ```
 
 3. Install PHP dependencies:
